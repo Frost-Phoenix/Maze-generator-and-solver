@@ -17,6 +17,3 @@ Comprend :
 
     -> Un éditeur pour pouvoir s'amuser avec des obstacles custom :)
         - A* est l'algorithmes le plus approprier pour ce mode 
-
-
-PS: Veuliez m'excuser de l'absence de commentaires, je n'ai pas eu le temps pour m'en occuper.
